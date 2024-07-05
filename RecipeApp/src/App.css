@@ -1,0 +1,105 @@
+.navbar{
+  position: fixed;
+}
+
+
+.login{
+  background-image: url(./assets/login.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.login-wrapper{
+  color: rgb(10, 221, 10);
+  background-color: rgba(1, 1, 158, 0.5);
+  width: 400px;
+  border-radius: 20px;
+  
+}
+
+/* Hide scrollbar while allowing scroll for specific element */
+.login-wrapper-scroll {
+  overflow: -moz-scrollbars-none;
+  -ms-overflow-style: none;
+  scrollbar-width: none; /* Firefox */
+}
+
+.login-wrapper-scroll::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+.login-wrapper-scroll h3{
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
